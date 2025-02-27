@@ -10,10 +10,10 @@ import os
 import urllib.parse
 
 # API Key
-api_key = "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"
+api_key = "Provide Your OWN OPENAI KEY
 
 # Email Contact
-support_email = "sourabhsingh4800@gmail.com"  # Replace with your actual support email
+support_email = "Add your email here to contact"
 
 def load_documents(directory_path):
     """Load PDF documents from specified directory."""
